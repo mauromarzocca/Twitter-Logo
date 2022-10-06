@@ -23,7 +23,7 @@
 
 .bird .tail-cut,
 .bird .feather-bottom-cut,
-.bird .feather.middle-cut,
+.bird .feather-middle-cut,
 .bird .body-top-cut,
 .bird .mouth-bottom-cut,
 .bird .mouth-top-cut {
@@ -54,12 +54,12 @@
     top: 384px;
 }
 
-.bird .feather.middle {
+.bird .feather-middle {
     left: 344px;
     top: 382px;
 }
 
-.bird .feather.middle-cut {
+.bird .feather-middle-cut {
     left: 300px;
     top: 320px;
 }
@@ -97,7 +97,7 @@
     left: 527px;
 }
 
-.bird .feather.top-cut {
+.bird .feather-top-cut {
     width: 235px;
     height: 235px;
     top: 147px;
